@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HomePage" width="640" height="480" xmlns:e="http://ns.egret.com/eui"  >
+	<e:Image  source="background_jpg"/>
+	<e:Image id="headerBg"  x="0" y="-183" source="home-mask_png"/>
+	<e:Image id="headerTitle" x="18" y="-135" source="logo_png"/>
+	<e:Image id="headerSubTitle" x="315" y="-81" source="ninja_png"/>
+	<e:Image id="headerTip" x="-161" y="150" source="home-desc_png"/>
+    
+	<e:Image id="ringDojo" width="175" x="119" y="323.5" source="dojo_png" anchorOffsetX="87.5" anchorOffsetY="87.5" scaleX="0" scaleY="0"/>
+	<e:Image id="ringNewGame" x="330.5" y="318.5" source="new-game_png" anchorOffsetX="97.5" anchorOffsetY="97.5" scaleX="0" scaleY="0"/>
+	<e:Image id="ringQuit" x="541.5" y="372.5" anchorOffsetX="70.5" anchorOffsetY="70.5" scaleX="0" scaleY="0" source="quit_png"/>
+	    <e:Image id="contentNewGame" x="331.5" y="319" anchorOffsetX="49" anchorOffsetY="42.5" scaleX="0" scaleY="0" source="sandia_png"/>
+	    <e:Image id="contentQuit" x="544.5" y="372.5" anchorOffsetX="33" anchorOffsetY="34" scaleX="0" scaleY="0" source="boom_png"/>
+	    <e:Image id="contentDojo" x="120" y="322.5" anchorOffsetX="31" anchorOffsetY="29.5" scaleX="0" scaleY="0" source="peach_png"/>
+	    <e:Image id="contentTip" x="120" y="323" source="new_png" anchorOffsetX="-38" anchorOffsetY="103" scaleX="0" scaleY="0"/>
+    
+</e:Skin>

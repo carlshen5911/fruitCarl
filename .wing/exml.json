@@ -1,0 +1,30 @@
+{
+  "17767258b25": {
+    "path": "scene\\HomePage.ts",
+    "class": "HomePage",
+    "parentPath": "",
+    "backgroundType": "null",
+    "backgroundImage": "C:\\Egret\\fruitCarl\\resource\\images\\background.jpg",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": 640,
+    "backgroundHeight": 480,
+    "useBgImage": true,
+    "useBgColor": false
+  },
+  "177672641eb": {
+    "path": "scene\\JodoPage.ts",
+    "class": "JodoPage",
+    "parentPath": ""
+  },
+  "1776726f1a6": {
+    "path": "scene\\NewGamePage.ts",
+    "class": "NewGamePage",
+    "parentPath": ""
+  },
+  "17767278da9": {
+    "path": "scene\\QuitOage.ts",
+    "class": "QuitOage",
+    "parentPath": ""
+  }
+}
